@@ -1,0 +1,11 @@
+name: EffectNoKill
+version: '1.0'
+main: zov.dayn.effectNoKill.EffectNoKill
+api-version: '1.21'
+commands:
+  nokill:
+    description: Управление бессмертием, заморозкой и отключением урона
+    usage: /nokill
+  upkill:
+    description: Управление увеличением и уменьшением урона
+    usage: /upkill
